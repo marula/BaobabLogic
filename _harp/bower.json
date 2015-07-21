@@ -1,12 +1,14 @@
 {
-  "name": "Marula.io",
-  "homepage": "https://github.com/Marula",
+  "name": "Baobab Logic",
+  "homepage": "https://www.baobablogic.com",
   "authors": [
-    "Marula.io"
+    "Baobab Logic"
   ],
-  "description": "Marula Public Website",
+  "description": "Baobab Logic Website",
   "keywords": [
-    "Marula",
+    "Baobab Logic",
+    "Startup",
+    "Investment",
     "Web Devleopment",
     "Full Stack"
   ],

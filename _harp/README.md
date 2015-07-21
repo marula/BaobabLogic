@@ -1,5 +1,5 @@
-# Marula.io Website
-Web presence for Marula, a software engineering company from South Africa.
+# Baobab Logic Website
+Web presence for Baobab Logic, a technology investment firm from South Africa.
 
 ## Dependencies
 
@@ -36,4 +36,4 @@ Documentation will be included at a later stage as necessary.
 
 ### v0.1.0
 
-- Create basic design 
+- Create basic design
