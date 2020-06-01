@@ -15,6 +15,18 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Baobab Logic and Marula',
+        short_name: 'Baobab',
+        start_url: '/',
+        background_color: '#202124',
+        theme_color: '#202124',
+        display: 'browser',
+        icon: 'src/images/favicon.png', // This path is relative to the root of the site.
+      },
+    },
     'gatsby-plugin-typescript',
     'gatsby-plugin-twitter',
     'gatsby-transformer-remark',
