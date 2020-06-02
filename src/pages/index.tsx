@@ -38,9 +38,9 @@ const AboutPage = () => (
       travel or education industries.
     </p>
     <p>
-      Integral to what Baobab Logic achieved was Marula, a web development consultancy launched
-      from within Baobab Logic. Marula worked primarily in Ruby and JavaScript environments, and
-      with a team of software developers
+      Integral to what Baobab Logic achieved was Marula, a web development consultancy
+      launched from within Baobab Logic. Marula worked primarily in Ruby and JavaScript
+      environments. With a small team of software developers
       building robust solutions for various clients Marula supplied the primary source of income
       for Baobab Logic.
     </p>
@@ -51,7 +51,7 @@ const AboutPage = () => (
       {' '}
       <a href="https://www.activitar.com">Activitar</a>
       . As our contributions there grew we became closer to the Activitar mission, and in the end
-      the entire Baobab Logic team joined Activitar on a permanent basis. What followed was an
+      the majority of the Marula team joined Activitar on a permanent basis. What followed was an
       incredibly fullfilling period, working hard, and ultimately helping to turn Activitar into
       the largest activity platform in Africa.
     </p>
